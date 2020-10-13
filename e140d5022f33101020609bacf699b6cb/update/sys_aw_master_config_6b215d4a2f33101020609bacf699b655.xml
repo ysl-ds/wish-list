@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_aw_master_config">
+    <sys_aw_master_config action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <brand_color/>
+        <compiled_page display_value="Workspace Core">b70867ad0f603300bb57f4a1ff767e15</compiled_page>
+        <compiled_page_registry display_value="Wish List">a3215d4a2f33101020609bacf699b656</compiled_page_registry>
+        <description>Personal wish list application</description>
+        <global_search display_value="Default search settings">97a574ea53c0130084acddeeff7b12a6</global_search>
+        <global_search_data display_value="Wish List Search Context Config">eb215d4a2f33101020609bacf699b653</global_search_data>
+        <hide_search_results_count>false</hide_search_results_count>
+        <name>Wish List</name>
+        <navigation_type>tab</navigation_type>
+        <notifications_enabled>true</notifications_enabled>
+        <primary_color/>
+        <search_enabled>true</search_enabled>
+        <sys_class_name>sys_aw_master_config</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-10-13 04:07:36</sys_created_on>
+        <sys_id>6b215d4a2f33101020609bacf699b655</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Wish List</sys_name>
+        <sys_package display_value="Wish List" source="x_396451_wish_list">e140d5022f33101020609bacf699b6cb</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Wish List">e140d5022f33101020609bacf699b6cb</sys_scope>
+        <sys_update_name>sys_aw_master_config_6b215d4a2f33101020609bacf699b655</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-10-13 04:07:36</sys_updated_on>
+        <user_preference_controls_enabled>true</user_preference_controls_enabled>
+        <workspace_logo/>
+        <workspace_url>wish_list</workspace_url>
+    </sys_aw_master_config>
+</record_update>

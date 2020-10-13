@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-10-13 04:07:42</sys_created_on>
+        <sys_id>4131d98a2f33101020609bacf699b6ad</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x.396451.workspace.wish_list.wish_list</sys_name>
+        <sys_package display_value="Wish List" source="x_396451_wish_list">e140d5022f33101020609bacf699b6cb</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Wish List">e140d5022f33101020609bacf699b6cb</sys_scope>
+        <sys_security_acl display_value="x.396451.workspace.wish_list">4531d98a2f33101020609bacf699b6a2</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_4131d98a2f33101020609bacf699b6ad</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-10-13 04:07:42</sys_updated_on>
+        <sys_user_role display_value="wish_list" name="wish_list">0931d98a2f33101020609bacf699b6a7</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>

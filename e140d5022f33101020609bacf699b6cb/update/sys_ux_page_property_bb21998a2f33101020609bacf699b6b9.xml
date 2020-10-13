@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_page_property">
+    <sys_ux_page_property action="INSERT_OR_UPDATE">
+        <choices/>
+        <description>Exclude/include user preferences in workspace chrome.</description>
+        <name>ws_active_user_pref</name>
+        <page display_value="Wish List">a3215d4a2f33101020609bacf699b656</page>
+        <suffix/>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-10-13 04:07:37</sys_created_on>
+        <sys_id>bb21998a2f33101020609bacf699b6b9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>ws_active_user_pref</sys_name>
+        <sys_package display_value="Wish List" source="x_396451_wish_list">e140d5022f33101020609bacf699b6cb</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Wish List">e140d5022f33101020609bacf699b6cb</sys_scope>
+        <sys_update_name>sys_ux_page_property_bb21998a2f33101020609bacf699b6b9</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-10-13 04:07:37</sys_updated_on>
+        <type>boolean</type>
+        <unique_name>x_396451_wish_list.ws_active_user_pref</unique_name>
+        <value>true</value>
+    </sys_ux_page_property>
+    <sys_translated_text action="delete_multiple" query="documentkey=bb21998a2f33101020609bacf699b6b9"/>
+</record_update>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role_contains">
+    <sys_user_role_contains action="INSERT_OR_UPDATE">
+        <contains display_value="wish_list" name="wish_list">0931d98a2f33101020609bacf699b6a7</contains>
+        <role display_value="x_396451_wish_list.user" name="x_396451_wish_list.user">22501d022f33101020609bacf699b62d</role>
+        <sys_class_name>sys_user_role_contains</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-10-13 04:07:43</sys_created_on>
+        <sys_id>5131d98a2f33101020609bacf699b6b6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>wish_list.x_396451_wish_list.user</sys_name>
+        <sys_package display_value="Wish List" source="x_396451_wish_list">e140d5022f33101020609bacf699b6cb</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Wish List">e140d5022f33101020609bacf699b6cb</sys_scope>
+        <sys_update_name>sys_user_role_contains_5131d98a2f33101020609bacf699b6b6</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-10-13 04:07:43</sys_updated_on>
+    </sys_user_role_contains>
+</record_update>
